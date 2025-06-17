@@ -30,6 +30,10 @@
 <br>
 
  ## Languages and Tools:
+![](https://img.shields.io/badge/Java-E34F26?style=for-the-badge&logo=Java&logoColor=white)
+![](https://img.shields.io/badge/Angular-F7DF1E?style=for-the-badge&logo=Angular&logoColor=black)
+![](https://img.shields.io/badge/AWS-5E5C5C?style=for-the-badge&logo=aws&logoColor=white)
+![](https://img.shields.io/badge/sql-1572B6?style=for-the-badge&logo=sql&logoColor=white)
  ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
